@@ -1,0 +1,11 @@
+.DS_Store
+
+.gradle
+build/
+web/
+
+*.sublime-workspace
+Thumbs.db
+*.zip
+
+tags
